@@ -1,0 +1,41 @@
+nav {
+    background-color: rgb(67, 110, 230);
+    overflow: hidden;
+}
+nav a {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: inline-block
+}
+nav a:hover {
+    background-color: rgb(67, 110, 230);
+    color: #000000;    
+    display: inline-block
+}
+form{
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+h2{
+display: inline-block;
+}
+img{
+    padding:100px 100px 
+}
+h1{
+    float: inline-end;
+    padding:300px 250px 
+}
+#topnav{
+    background-color: black;
+}
+.navone{
+float: left;
+}
+.navtwo{
+float:right
+}
